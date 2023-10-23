@@ -9,6 +9,17 @@ Web application with an ATM concept.
 
 This is a web application built to simulate an ATM using TypeScript, React, Vite, and SASS. The application provides a user-friendly interface for performing basic ATM functions, such as withdrawing cash, checking balances, and transferring funds.
 
+## Packages and technologies
+
+The following main packages are used on this repository:
+
+- **TypeScript:** Ensures type safety and enhanced code quality.
+- **React:** A JavaScript library for building user interfaces.
+- **Vite:** A fast build tool for modern web development.
+- **SASS:** A CSS preprocessor for efficient styling.
+
+See `package.json` for more information.
+
 ## Features
 
 ### HTML
@@ -90,15 +101,6 @@ Open [http://localhost:5173](http://localhost:3000) with your browser to see the
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-## Packages and technologies
-
-The following packages are used on this repository:
-
-- TypeScript: Ensures type safety and enhanced code quality.
-- React: A JavaScript library for building user interfaces.
-- Vite: A fast build tool for modern web development.
-- SASS: A CSS preprocessor for efficient styling.
 
 ## Versioning
 
